@@ -105,3 +105,14 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
+
+# New pull request
+##  New things that i have learn 
+In this sub text im gonna make a list of the thing that i learn so far in git hub
+- I have learn to do list 
+  - i have learn to indent inside a list 
+  1. i also learn how to put this kind of letters
+  
+  - I also learn how to `highlight` 
+
+[This is were i have learn to do this](https://www.youtube.com/watch?v=eJojC3lSkwg&ab_channel=SteveGriffith-Prof3ssorSt3v3)
